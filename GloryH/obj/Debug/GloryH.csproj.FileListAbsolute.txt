@@ -1,0 +1,164 @@
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\GloryH.exe.config
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\GloryH.exe
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\GloryH.pdb
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\BouncyCastle.Crypto.dll
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\Google.Protobuf.dll
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\MySql.Data.dll
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\Renci.SshNet.dll
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\System.Buffers.dll
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\System.Memory.dll
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\System.Numerics.Vectors.dll
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\Google.Protobuf.xml
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\MySql.Data.xml
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\Renci.SshNet.xml
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\System.Buffers.xml
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\System.Memory.xml
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\System.Numerics.Vectors.xml
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Program Files\C#\GloryH\GloryH\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.csprojAssemblyReference.cache
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.index.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.Properties.Resources.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.csproj.GenerateResource.cache
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.csproj.CoreCompileInputs.cache
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.csproj.CopyComplete
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.exe
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.pdb
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.login.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.CarIn.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.Carout.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.SearchParking.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.Edit.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.Add.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.CardAdd.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.SearchCard.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.EditInfo.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.Cost.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.Password.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.Employee.resources
+E:\Program Files\C#\GloryH\GloryH\obj\Debug\GloryH.AddEmployee.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\GloryH.exe.config
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\GloryH.exe
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\GloryH.pdb
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\BouncyCastle.Crypto.dll
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\Google.Protobuf.dll
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\MySql.Data.dll
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\Renci.SshNet.dll
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\System.Buffers.dll
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\System.Memory.dll
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\System.Numerics.Vectors.dll
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\Google.Protobuf.xml
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\MySql.Data.xml
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\Renci.SshNet.xml
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\System.Buffers.xml
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\System.Memory.xml
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\System.Numerics.Vectors.xml
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.csprojAssemblyReference.cache
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.Add.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.AddEmployee.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.CardAdd.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.CarIn.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.Carout.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.Cost.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.Edit.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.EditInfo.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.Employee.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.index.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.login.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.Password.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.Properties.Resources.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.SearchCard.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.SearchParking.resources
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.csproj.GenerateResource.cache
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.csproj.CoreCompileInputs.cache
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.csproj.CopyComplete
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.exe
+F:\Lin\.NET应用程序设计\课程设计\gloryh.ParkingSystem.io-master\GloryH\GloryH\obj\Debug\GloryH.pdb
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\GloryH.exe.config
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\GloryH.exe
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\GloryH.pdb
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\BouncyCastle.Crypto.dll
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\Google.Protobuf.dll
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\MySql.Data.dll
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\Renci.SshNet.dll
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\System.Buffers.dll
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\System.Memory.dll
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\System.Numerics.Vectors.dll
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\Google.Protobuf.xml
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\MySql.Data.xml
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\Renci.SshNet.xml
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\System.Buffers.xml
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\System.Memory.xml
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\System.Numerics.Vectors.xml
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.csprojAssemblyReference.cache
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.Add.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.AddEmployee.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.CardAdd.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.CarIn.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.Carout.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.Cost.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.Edit.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.EditInfo.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.Employee.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.index.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.login.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.Password.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.Properties.Resources.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.SearchCard.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.SearchParking.resources
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.csproj.GenerateResource.cache
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.csproj.CoreCompileInputs.cache
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.csproj.CopyComplete
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.exe
+F:\Lin\.NET应用程序设计\课程设计\GloryH\GloryH\obj\Debug\GloryH.pdb
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\GloryH.exe.config
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\GloryH.exe
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\GloryH.pdb
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\BouncyCastle.Crypto.dll
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\Google.Protobuf.dll
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\MySql.Data.dll
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\Renci.SshNet.dll
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\System.Buffers.dll
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\System.Memory.dll
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\System.Numerics.Vectors.dll
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\Google.Protobuf.xml
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\MySql.Data.xml
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\Renci.SshNet.xml
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\System.Buffers.xml
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\System.Memory.xml
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\System.Numerics.Vectors.xml
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.csprojAssemblyReference.cache
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.Add.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.AddEmployee.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.CardAdd.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.CarIn.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.Carout.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.Cost.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.Edit.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.EditInfo.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.Employee.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.index.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.login.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.Password.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.Properties.Resources.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.SearchCard.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.SearchParking.resources
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.csproj.GenerateResource.cache
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.csproj.CoreCompileInputs.cache
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.csproj.CopyComplete
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.exe
+F:\Lin\.NET应用程序设计\课程设计\new\GloryH\obj\Debug\GloryH.pdb
